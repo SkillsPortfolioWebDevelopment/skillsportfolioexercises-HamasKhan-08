@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> My Favourite Video Game </title>
+    <link rel="Stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+    <a class="active" href="#h1"> <b> Click Here To Go To Overview  </b> </a>  <br /> 
+    <a class="active" href="#h2"> <b> Click Here To Go To The Game's Plot </b> </a> <br />
+    <a class="active" href="#h3"> <b> Click Here To Go To The Reviews </b> </a>
+
+    <h1> <a name="h1"> Overview Of Call Of Duty: Vanguard </a></h1>
+    <p class="index"> <b> My Favourite current video game is Call Of Duty: Vanguard, which is an FPS shooter video game developed by Infinity Ward and published by Activision and is available on all gaming consoles ( PS4, PS5, XBOX ONE, SERIES X, SERIES S ) as well as PC and is the latest installment in Activision's Call Of Duty franchise </b> </p>
+    <a href="https://imgur.com/dFV53HZ"><img src="https://i.imgur.com/dFV53HZ.jpg" style="width:1300px; height:600px" title="source: imgur.com" /></a>
+
+    <h2> <a name="h2"> Plot Of Call Of Duty: Vanguard </a></h2>
+    <p class="index"><b> Call Of Duty: Vanguard is set during the dark times of WWII and revolves around a task force called Vanguard, It consists of 4 elite and best in class soldiers, Arthur Kingsley, The leader and the all rounder of the task force is a semi professional boxer but joined the army when his country needed him the most, Moreover there is Wade Jackson an Ace pilot for whom sky is not the limit and been awarded 6 heroic medals for missions completed successfully and flawlessly, Then we have Lucas, An Australian born demolition specialising in lethal equipment with an Eagle's eye, Lastly Polina Petrova AKA Lady Nightingale, Born in russia and raised by a single dad, is top of the class sniper with the aim always on the bullsye is out for revenge for the murder of her father and only brother...This task force against all the odds sets out to gather all the intel they can on a special operation led by the Germans known as "Operation Phoenix" related to a poisonous gas called the Nebula V </b></p>
+    <a href="https://imgur.com/BlGmi02"><img src="https://i.imgur.com/BlGmi02.jpg" style="width:1300px; height:600px" title="source: imgur.com" /></a>
+
+    <h3> <a name="h3"> Reviews Of Call Of Duty: Vanguard </a></h3>
+  <p align: center;> <img src="https://i.imgur.com/KzL23Oe.png" style="width:1000px; height:500px" /> </p>
+    <p class="index"><b><em> IGN: </em> "With a strong cast of characters used to varying effect throughout to tell a tale that puts just about enough of a spin on the stories it's paying homage to, Call of Duty: Vanguard’s single-player campaign is an impressively cinematic depiction of World War II. That said, aside from a few standout moments sprinkled over its fleeting five hours, for the most part it plays it a little too safe in regards to mission variety to feel like a standout in the series. It may look and sound spectacular, but it could’ve used more stylish sections like Petrova’s to distinguish its gameplay from the many battles we’ve fought before." </b></p>
+    <a class="index-p" href="https://www.ign.com/articles/call-of-duty-vanguard-single-player-campaign-review" target="_blank"> Read The Full Review By IGN Here! </a> <br />
+   <p align: center;>  <img src="https://i.imgur.com/I3JaQIM.jpg" style="width:1000px; height:500px;" /> </p>
+    <p class="index"><b> <em> Gamespot: </em> "Vanguard also features some new modes and adjustments that enhance the usual multiplayer fare. The competitive menu includes a new option that lets you tune the kind of matches you want to play, leaning into either larger team battles on bigger maps or smaller, more intense firefights that get you into the action quicker. The Patrol mode is a highlight, adding mobility to the control points usually seen in Hardpoint matches, forcing you to constantly chase them around the map, which further adds to the dynamic feel of battles and also incentivizes out-of-the-box thinking to catch opponents unaware." </b></p>
+    <a class="index-p" href="https://www.gamespot.com/reviews/call-of-duty-vanguard-review-personnel-problems/1900-6417780/" target="_blank"> Read The Full Review By Gamespot Here! </a> <br />
+
+    <a class="button" href="https://www.callofduty.com/ar/en/vanguard" target="_blank"> PURCHASE </a>
+
+</body>
+</html>
