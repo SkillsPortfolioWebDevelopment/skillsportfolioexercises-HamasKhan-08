@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <title> Nature log </title>
+</head>
+<body>
+    <h1> Welcome To My Nature's Log </h1>
+   <p align="center"> <img src="https://i.imgur.com/qJrJDZY.jpg" alt="Nature Beauty" class="grayscale"  title=" Nature Picture" width="420" height="200" align ="middle"/> </p>
+    <p>
+        Creator: Mint Images - Frans Lanting
+        |
+        Credit: Getty Images/Mint Images RM
+
+    </p>
+  <p align="center"><img src ="https://i.imgur.com/ZnHjB6P.jpg" alt="Snowy" class=" contrast " width="420" height="200" title="Beautiful Snow" align="middle"/> </p>
+    <p>
+        Creator: oversnap
+        |
+        Credit: Getty Images/iStockphoto
+    </p>
+  <p align="center">  <img src="https://i.imgur.com/yu7k3xE.jpg" alt="Forest" class=" opacity " title="Exceptional Forest" width="420" height="200" align="middle"/> </p>
+    <p>
+        Creator: Biletskiy_Evgeniy
+        |
+        Credit: Getty Images/iStockphoto
+    </p>
+
+</body>
+</html>
