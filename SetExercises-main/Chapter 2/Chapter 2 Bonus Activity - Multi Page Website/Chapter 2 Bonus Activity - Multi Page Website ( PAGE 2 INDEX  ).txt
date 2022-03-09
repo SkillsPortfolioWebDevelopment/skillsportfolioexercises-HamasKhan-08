@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Plot Of Call Of Duty: Vanguard </title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="htmlpage.html"> Overview </a></li>
+            <li><a href="plot.html"> Plot </a></li>
+            <li><a href="review.html"> Reviews </a></li>
+        </ul>
+    </nav>
+
+    <h2>  Plot Of Call Of Duty: Vanguard </h2>
+    <p class="index"><b> Call Of Duty: Vanguard is set during the dark times of WWII and revolves around a task force called Vanguard, It consists of 4 elite and best in class soldiers, Arthur Kingsley, The leader and the all rounder of the task force is a semi professional boxer but joined the army when his country needed him the most, Moreover there is Wade Jackson an Ace pilot for whom sky is not the limit and been awarded 6 heroic medals for missions completed successfully and flawlessly, Then we have Lucas, An Australian born demolition specialising in lethal equipment with an Eagle's eye, Lastly Polina Petrova AKA Lady Nightingale, Born in russia and raised by a single dad, is top of the class sniper with the aim always on the bullsye is out for revenge for the murder of her father and only brother...This task force against all the odds sets out to gather all the intel they can on a special operation led by the Germans known as "Operation Phoenix" related to a poisonous gas called the Nebula V </b></p>
+    <a href="https://imgur.com/BlGmi02"><img src="https://i.imgur.com/BlGmi02.jpg" style="width:1300px; height:600px" title="source: imgur.com" /></a>
+
+</body>
+</html>

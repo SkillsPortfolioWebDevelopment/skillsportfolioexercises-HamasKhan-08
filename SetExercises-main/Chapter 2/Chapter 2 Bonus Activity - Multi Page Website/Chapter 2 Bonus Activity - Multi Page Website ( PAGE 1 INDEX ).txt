@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Overview Of Call Of Duty: Vanguard </title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="htmlpage.html"> Overview </a></li>
+            <li><a href="plot.html"> Plot </a></li>
+            <li><a href="review.html"> Reviews </a></li>
+        </ul>
+    </nav>
+
+    <h1>  Overview Of Call Of Duty: Vanguard </h1>
+    <p class="index"> <b> My Favourite current video game is Call Of Duty: Vanguard, which is an FPS shooter video game developed by Infinity Ward and published by Activision and is available on all gaming consoles ( PS4, PS5, XBOX ONE, SERIES X, SERIES S ) as well as PC and is the latest installment in Activision's Call Of Duty franchise </b> </p>
+    <a href="https://imgur.com/dFV53HZ"><img src="https://i.imgur.com/dFV53HZ.jpg" style="width:1300px; height:600px" title="source: imgur.com" /></a>
+
+    <a class="button" href="https://www.callofduty.com/ar/en/vanguard" target="_blank"> PURCHASE </a>
+</body>
+</html>
