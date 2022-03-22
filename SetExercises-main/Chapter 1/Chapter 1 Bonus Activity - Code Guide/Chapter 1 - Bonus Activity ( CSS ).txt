@@ -1,0 +1,22 @@
+body {
+}
+h1 {
+
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: red;
+
+}
+
+p {
+
+    text-align: center;
+    font-family: Arial;
+    font-size: medium;
+
+}
+
+code {
+    text-align: center;
+
+}
