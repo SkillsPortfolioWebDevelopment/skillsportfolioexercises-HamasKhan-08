@@ -1,0 +1,13 @@
+h1 {
+
+   text-align: center;
+   color: red;
+
+}
+
+video {
+
+    align-content: center;
+    justify-content: center;
+
+}
