@@ -1,0 +1,28 @@
+const sounds = ['Backrodgersalan', 'Big Yellow Alan', 'Camp David', 'Chicken Alan', 'Contract', 'Japan', 'King Arthur Alan', 'One Yank', 'Queen Is Dead', 'Spastic']
+
+sounds.forEach(sound => {
+    const btn = document.createElement('button')
+    btn.classList.add('btn')
+
+    btn.innerText = sound
+
+    btn.addEventListener('click', () => {
+        stopSongs()
+        document.getElementById(sound).play()
+    })
+
+    document.getElementById('buttons').
+    appendChild(btn)
+
+})
+
+function stopSongs() {
+    sounds.forEach(sound => {
+        const song = document.getElementById
+            (sound)
+
+        song.pause()
+        song.currentTime = 0;
+    })
+
+}
