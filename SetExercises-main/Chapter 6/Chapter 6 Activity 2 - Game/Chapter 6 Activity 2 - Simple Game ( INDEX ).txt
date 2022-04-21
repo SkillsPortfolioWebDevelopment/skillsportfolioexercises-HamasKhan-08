@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My PING PONG Game</title>
+   <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+
+    <h1> Welcome To My Simple PING PONG Game, Hope You Like It! </h1>
+
+    <h2> You Are The Player On The <em><b> Left </b></em>, Please Use Your <em><b> Mouse </b></em> To Control Your Paddle </h2>
+
+   <p align="center"> <canvas id="pong" width="900" height="800"></canvas> </p>
+
+    <script src="JavaScript.js"></script>
+
+</body>
+</html>
