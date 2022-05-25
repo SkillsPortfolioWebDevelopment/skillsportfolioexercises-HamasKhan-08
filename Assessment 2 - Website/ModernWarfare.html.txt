@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Call Of Duty: Modern Warfare </title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="Overview.html"> Overview Of Call Of Duty </a></li>
+            <li><a href="ModernWarfare.html"> Call Of Duty: Modern Warfare </a></li>
+            <li><a href="ColdWar.html"> Call Of Duty: Black ops Cold War </a></li>
+            <li><a href="Vanguard.html"> Call Of Duty: Vanguard </a></li>
+            <li><a href="Warzone.html"> Call Of Duty: Warzone </a></li>
+        </ul>
+    </nav>
+
+    <h1> Call Of Duty: Modern Warfare | Overview  </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/HEX1mB2.jpg" /> </p>
+
+    <p>
+        Call of Duty: Modern Warfare is a 2019 first-person shooter game developed by <a href="https://www.infinityward.com/" target="_blank"> Infinity Ward</a> and published by <a href="https://www.activision.com/" target="_blank"> Activision</a>. Serving as the sixteenth overall installment in the Call of Duty series, as well as a reboot of the Modern Warfare sub-series, it was released on October 25, 2019, for Microsoft Windows, PlayStation 4, and Xbox One.
+
+        The game takes place in a realistic and modern setting. The campaign follows a CIA officer and British SAS forces as they team up with rebels from the fictional country of Urzikstan, combating together against Russian forces who have invaded the country and the terrorist group Al-Qatala. The game's Special Ops mode features cooperative play missions that follow on from the campaign. The multiplayer mode supports cross-platform multiplayer and cross-platform progression for the first time in the series.
+
+        It has been reworked for gameplay to be more tactical and introduces new features, such as a Realism mode that removes the HUD as well as a form of the Ground War mode that now supports 64 players. A post-launch update introduces a free-to-play battle royale mode, Warzone, which was also marketed as a standalone title.
+
+        Infinity Ward began working on the game soon after the release of their 2016 title Call of Duty: Infinite Warfare. They introduced an entirely new engine for the game, which allows for new performance enhancements such as more detailed environments and ray-tracing capabilities. For the campaign, they took influence from real-life conflicts, such as the Syrian Civil War and terrorist incidents that have occurred in London. For the multiplayer, they scrapped the franchise's traditional season pass and removed loot boxes, enabling them to distribute free post-launch content to the playerbase in the form of "Seasons".
+
+        Modern Warfare received praise for its gameplay, campaign, multiplayer, graphics, and dark and realistic tone compared to previous entries; criticism focused on the handling of the campaign's subject matter, including the depiction of the Russian military, as well as balancing issues in the multiplayer. A sequel, titled Modern Warfare II was announced by Activision and will be released in 2022.
+
+    </p>
+
+    <p align="center">   <iframe width="1200" height="673" src="https://www.youtube.com/embed/bH1lHCirCGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Modern Warfare | Plot </h1>
+
+    <p>
+
+        In 2019, during a covert operation in Verdansk, Kastovia to recover shipments of dangerous chemical gas headed for Urzikstan, CIA SAC/SOG officer “Alex” is intercepted by unknown hostiles who kill the Marine Raiders accompanying him, and escape with the gas. Alex's handler, Station Chief Kate Laswell, requests the assistance of SAS Captain John Price in recovering the chemicals and de-escalating the situation with Russia.
+
+        Twenty-four hours later, a group of suicide bombers, affiliated with the terrorist organization Al-Qatala, attack Piccadilly Circus in London. SAS Sergeant Kyle "Gaz" Garrick, who has been following the suspected terrorists with his team, is dispatched to contain the situation with the assistance of Price and local police forces. Afterwards, Alex is sent to Urzikstan to meet up with rebel leader Farah Karim. She agrees to join forces in tracking down the chemicals, in exchange for his aid in overthrowing Russian forces led by General Roman Barkov.
+
+        SAS forces led by Price and Garrick raid an Al-Qatala-occupied townhouse in London, where they learn the location of their leader, Omar "The Wolf" Sulaman. Alex, accompanied by Sergeant Marcus Griggs and his squad of Marines, move on Ramaza Hospital in Urzikstan and capture the Wolf. Later, the Wolf's right-hand man, Jamal "The Butcher" Rahar, launches an attack on the United States Embassy in Urzikstan in an attempt to free the Wolf. Price, Garrick, Alex, Farah and the embassy's defense forces work together to secure the Wolf, but ultimately fail.
+
+        Farah later comes up with a plan to ambush the Wolf's men in the "Highway of Death" in Urzikstan.
+
+        Her plan goes awry when Barkov's men attack both the rebel forces and Al-Qatala militants. Farah's brother and second in command, Hadir, is revealed to be the thief who stole the chemical shipment; in an attempt to drive off the hostile forces, Hadir sets off the chemicals in the area, killing all of Barkov's men and Al-Qatala forces, with Farah and Alex narrowly escaping death.
+
+        At this point, the motivations behind the Karim siblings' animosity with Barkov are revealed. In 1999, the siblings were left orphaned during Barkov's invasion. The two attempted to escape the country, but were captured by Barkov himself and imprisoned for the next ten years. While in captivity, Farah rose to the rank of Commander of the rebel forces, and eventually executed a breakout from Barkov's prison camp with the help of a young Price. Back in the present day, Hadir has seemingly joined forces with Al-Qatala, forcing Farah and Price's team to take action.
+
+        They infiltrate the Wolf's hidden base and manage to kill him, though fail to locate Hadir. With the gas still at large, the United States Government declares Farah's liberation army a foreign terrorist threat. Disgusted with his government, Alex stays in Urzikstan to fight as part of Farah's army.
+
+        Following intel on a possible attack in Russia orchestrated by Hadir, Price and Garrick head to St. Petersburg and meet up with one of Price's old contacts, Nikolai. They manage to intercept an Al-Qatala meeting and apprehend the Butcher. As the Butcher refuses to give in to interrogation, Price resorts to using his wife and son, forcing him to comply. Garrick is given the choice to either execute the Butcher or let him live. They learn that Hadir plans to attack Barkov at his estate in Baurci, Moldova, and proceed to intercept him.
+
+        At the estate, the two learn from Hadir of the location of Barkov's gas factory in Borjomi, Georgia, and narrowly escape. However, Laswell arrives, informing Price that Russia demands Hadir be handed over to them.
+
+        Price begrudgingly complies, on the condition that they keep the intel on the gas factory. Price and Garrick meet up with Farah and Alex at Urzikstan, then plan their attack on the factory. Alongside assistance from Laswell, the team advances on the factory, and attempts to use explosives provided by Nikolai to demolish the facility. However, the detonator is damaged in the fight, and Alex volunteers to set up the explosives manually, seemingly sacrificing his own life.
+
+        As Barkov attempts to escape the facility by helicopter, Farah ambushes and kills him. Farah's forces and Price's team evacuate as the factory is destroyed.
+
+        With Barkov dead and disowned by Russia, Price meets with Laswell to discuss the creation of Task Force 141 in preparation against the Russian terrorist Victor Zakhaev. Price reviews the files of potential recruits with Laswell: Garrick, John "Soap" MacTavish, and Simon "Ghost" Riley.
+
+
+    </p> <br />
+
+    <p align="center">   <iframe width="1200" height="673" src="https://www.youtube.com/embed/zu3wZ-_IKrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Modern Warfare | Multiplayer </h1>
+
+    <p>
+        Modern Warfare's multiplayer has been revised from its predecessors to allow for a more tactical gameplay style, including a focus on map exploration, door breaching, and a Hardcore "Realism" mode that removes the HUD.
+
+        The mini-map was originally removed in favor of a compass-style marker, with visual cues to detect friendlies and opponents. Following feedback from the multiplayer beta test, Infinity Ward re-implemented the mini-map but removed the appearance of red dots representing enemy players (except for when the UAV killstreak is used).
+
+        Multiplayer also features the return of Killstreaks (rewards based on kills), with more recent Call of Duty titles having used Scorestreaks (rewards based on score) instead. Killstreaks can, however, be converted into Scorestreaks with the use of an in-game perk called "Pointman". The online modes allow for a larger range of players within a map than previous installments, with a new mode called "Ground War" featuring over 100 players
+    </p>
+
+    <h1> Call Of Duty: Modern Warfare | Reviews </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/CGDaxuZ.jpg" height="673" width="1200" /> </p>
+
+    <p>
+        “As someone who’s played every single Call of Duty campaign and really missed it last year, the new Modern Warfare is exactly the kind of single-player revival I’ve been looking for. It introduces welcome new kinds of gameplay moments while executing familiar ones exceptionally well. Sure, its story may not be as provocative as it seems to want to be, but it reestablishes a strong identity for this 16-year-old franchise with a showcase solo shooter experience.
+
+        Amidst a growing pile of battle royales and looter shooters that just don’t scratch that same itchy trigger finger, it felt just like old times.”
+
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/zFlGKU1AxD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> 
+
+    <p> “Call of Duty: Modern Warfare’s scaled-up version of Ground War is a chaotic good time, and Realism quiets things down a bit to present a uniquely delightful challenge. The rest of Modern Warfare's multiplayer ranges from great additions like Gunfight and its in-depth weapon customization, there sure is a lot to do in Modern Warfare, and that variety is important to keep things feeling fresh ” </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/l8MfrNy3E6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://me.ign.com/en/call-of-duty-modern-warfare-mobile/167091/review/call-of-duty-modern-warfare-final-review" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <p align="center"> <img src="https://i.imgur.com/I3JaQIM.jpg" height="673" width="1200" /> </p>
+
+    <p>
+        Throughout Call of Duty: Modern Warfare's campaign, that line is chemical weapons. It's a safe line to draw; people are largely in agreement that chemical weapons are beyond horrific. But there are other horrors of war, some of which Modern Warfare depicts, starkly, in strong but uncomfortable missions. Just when it could really make a point about any other aspect of modern war, it pulls back. Modern Warfare makes old observations and presents them with new flourishes.
+
+        Those new flourishes do make for a good campaign and solid multiplayer
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/wyXcT3h8oaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://www.gamespot.com/reviews/call-of-duty-modern-warfare-review-stay-frosty-aga/1900-6417347/" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <a class="button" href="https://www.callofduty.com/ar/en/modernwarfare/buy" target="_blank"> Purchase Here! </a>
+
+
+
+</body>
+
+</html>

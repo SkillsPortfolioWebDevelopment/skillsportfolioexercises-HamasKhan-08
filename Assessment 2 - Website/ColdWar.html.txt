@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Call Of Duty: Black ops Cold War </title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="Overview.html"> Overview Of Call Of Duty </a></li>
+            <li><a href="ModernWarfare.html"> Call Of Duty: Modern Warfare </a></li>
+            <li><a href="ColdWar.html"> Call Of Duty: Black ops Cold War </a></li>
+            <li><a href="Vanguard.html"> Call Of Duty: Vanguard </a></li>
+            <li><a href="Warzone.html"> Call Of Duty: Warzone </a></li>
+        </ul>
+    </nav>
+
+    <h1> Call Of Duty: Black ops Cold War | Overview </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/v0WrXGP.png" /> </p>
+
+    <p>
+        Call of Duty: Black Ops Cold War is a 2020 first-person shooter video game developed by <a href="https://www.treyarch.com/" target="_blank"> Treyarch</a> and <a href="https://www.ravensoftware.com/" target="_blank"> Raven Software</a> and published by <a href="https://www.activision.com/" target="_blank"> Activision</a>. It was released worldwide on November 13, 2020, for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S. It serves as the sixth installment in the Black Ops series and the seventeenth installment in the overall Call of Duty series. The game is the second Call of Duty title since 2011's Modern Warfare 3 to be co-developed by two studios.
+
+        Black Ops Cold War's campaign is set during the early 1980s of the Cold War, taking place between Call of Duty: Black Ops (2010) and Black Ops II (2012) chronologically. It is centered around a pursuit of the alleged Soviet spy Perseus, whose stated goal is to subvert the United States and tilt the balance of power toward the Soviet Union. For the campaign, the player takes control of "Bell", who is recruited by CIA officer Russell Adler into a multinational task force created to hunt down Perseus.
+
+        The campaign also sees the return of Black Ops characters Alex Mason, Frank Woods, and Jason Hudson, with Mason also being the playable character in certain missions. The game's multiplayer introduced new game modes as well as new map dynamics and elements, carrying over several design choices introduced in Call of Duty: Modern Warfare. It features a seasonal content system similar to Modern Warfare, which includes a battle pass as well as free maps and weapons added every season.
+
+        Cold War also features narrative tie-ins to Modern Warfare via the campaign and multiplayer, establishing a shared universe across multiple Call of Duty sub-series.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/zsBRGCabaog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Black Ops Cold War | Plot </h1>
+
+    <p>
+        In January 1981, CIA SAD/SOG operatives Russell Adler, Alex Mason, and Frank Woods are sent to target Qasim Javadi and Arash Kadivar for their roles in the Iran hostage crisis. With intelligence gained from interrogating Qasim, the team tracks Arash to Turkey. Arash boasts that Perseus was the one responsible for organizing the hostage crisis before being executed. US President Ronald Reagan authorizes a black operation team to neutralize Perseus after being briefed of his threat by Jason Hudson and Adler.
+
+        Adler’s team consists of CIA operative Lawrence Sims, American born Mossad operative Eleazar "Lazar" Azoulay, and MI6 intelligence officer Helen Park, with Mason and Woods providing tactical support. The final member of the team is an agent known only by the codename “Bell", who served with Adler and Sims in MACV-SOG during the Vietnam War. The team starts by asking Bell to recall Operation Fracture Jaw in 1968, where Adler believes he, Bell, and Sims first encountered Perseus. Afterwards, the team proceeds to East Berlin to apprehend/kill Anton Volkov, a Russian mafia boss with ties to Perseus.
+
+        Following an infiltration into a secret Spetsnaz training facility by Bell and Woods, the team discovers that Perseus had infiltrated Operation Greenlight, a top secret American program that secretly planted neutron bombs in every major European city to deny their use to the Soviets in the event of an invasion. Mason and Woods are deployed to Mount Yamantau in the Ural Mountains, where they infiltrate Nikita Dragovich's destroyed base in hopes of retrieving his list of sleeper agents.
+
+        However, the team finds out that Perseus has wiped the data from the Yamantau base's mainframe, leaving their only option to infiltrate KGB Headquarters to retrieve the list. Enlisting the help of one of their KGB double agent allies, Dimitri Belikov, they manage to get Adler and Bell inside the Lubyanka Building. The team learns that an Operation Greenlight scientist is one of the sleeper agents and has fled to Cuba. Hoping to catch Perseus there, the team launches a raid. They learn that Perseus has managed to steal the detonation codes for every Operation Greenlight bomb, meaning he can devastate Europe and lay the blame on the United States. The team comes under heavy fire and Lazar and Park are injured in the process, leaving Bell only enough time to save one of them.
+
+        After rescuing Bell, Adler continues to press them by provoking their memories of Vietnam once more. At this point, Bell's true identity is revealed as an agent of Perseus, having been shot by Arash in Turkey out of jealousy. Bell was found by Adler and was brainwashed using Project MKUltra into believing they were his comrade. With Bell's memory returned, Adler interrogates them on the location of Perseus' headquarters. Bell can then either choose to remain loyal to Perseus and lie to Adler, or choose to betray Perseus and reveal his location.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/aTS9n_m7TW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Black Ops Cold War | Multiplayer </h1>
+
+    <p>
+        Multiplayer features new and returning game modes, as well as maps that accommodate both the traditional 6v6 format, as well as larger 12v12 combat. The game also introduced a new game mode named "Fireteam", which can support up to 40 players.
+
+        The Create-a-Class system from Modern Warfare returns, with two major differences: field upgrades are implemented as part of class loadouts, and each class has a wildcard choice out of four possible ones: Gunfighter (allows up to 8 primary weapon attachments), Perk Greed (allows 2 perks from each perk type for a total of 6 usable perks), Danger Close (double grenade equipment), or Lawbreaker (allows mixing and matching any weapon/perk type in any slot). Like Modern Warfare, Cold War also support cross-platform play and cross-platform progression. Following an update, the progression system for multiplayer is integrated with Call of Duty: Warzone, allowing for a unified level system across Cold War, Warzone and Modern Warfare. In addition, Operator characters and weapons from Cold War are also added to Warzone to be used alongside Modern Warfare Operators and weapons, though the multiplayer modes remain separated and do not share Operators and weapons.
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/rXRQyd6_5j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Black ops Cold War | Zombies  </h1>
+
+    <p>
+        Zombies features a new storyline titled "Dark Aether" which expands on the original Aether story, concluded in Black Ops 4, while also staying true to the main narrative of the campaign. Instead of playing as predefined characters, players can take on the role of Operator characters from Multiplayer, as part of a CIA response team codenamed "Requiem". Progression from Multiplayer is shared with Zombies, as players are able to use any weapon to start a Zombies match, alongside Gunsmith, scorestreaks and field upgrades, in addition to returning mechanics such as wallbuys, the Mystery Box, Pack-a-Punch and past fan-favorite Perks. For the first time in Zombies, players can opt to "exfil" the map, which will put them in a difficult wave with increased enemy spawn that they must survive before they can escape.
+
+        Collectible intels are also scattered around the playable maps, allowing players to keep track of and unfold the main story as they progress. A skill upgrade system is featured in the game, allowing players to enhance weapons, perks, ammo mods and field upgrades with Aetherium Crystals, a currency acquired from reaching round milestones. A new game mode, Onslaught, is introduced exclusively to PlayStation players until November 1, 2021. In this mode, which are played within Multiplayer maps, up to 2 players defend areas grounded off by the Dark Aether orb, which must be powered by zombie kills. Sufficient kills will move the orb to new positions, forcing the players to move or die outside of the orb's protection zone. The Season Two update introduces "Outbreak", a large-scale mode where players fight off zombie hordes and complete objectives in an open-world area, composed of locations featured in the larger Multiplayer modes.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/h9ef9zeiiqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Black Ops Cold War | Reviews  </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/CGDaxuZ.jpg" height="673" width="1200" /> </p>
+
+    <p>
+        " Call of Duty’s moment-to-moment gameplay is still primarily a well-dressed shooting gallery, but Black Ops Cold War succeeds in making its quiet time a defining part of its experience rather than just a deep breath between the loud and explode-y sequences.
+
+        The importance placed on finding and deciphering evidence as well as the multiple endings give good reason to stick with it beyond its typical six-ish-hour runtime. "
+
+    </p> 
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/bNrDnKtEAfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> <br />
+
+    <p>
+        "Call of Duty: Black Ops Cold War’s Zombies is as highly polished and tense as you’d expect from a mode that’s been around in some form or another for over a decade now.
+
+        The iconic brand of frantic zombie killing and interdimensional intrigue is incredibly fun while you’re caught up in the moment.
+
+        It should get bigger and better as Treyarch adds new free maps and features, and if so this could become a great year for Call of Duty Zombies"
+
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/Dqbbu2hWSpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://www.ign.com/articles/call-of-duty-black-ops-cold-war-reviews" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <p align="center"> <img src="https://i.imgur.com/I3JaQIM.jpg" height="673" width="1200" /> </p>
+
+    <p>
+        "Like any Call of Duty campaign, Cold War is theatrical. From the '80s-themed montage that opens the campaign to a Vietnam flashback set to Steppenwolf--along with plenty of explosions, helicopter crashes, and slo-mo shootouts--Cold War's campaign is as action-movie as you'd expect.
+
+        It largely works with the inherent over-the-top nature of a Black Ops story, and although some bits can be kind of goofy, it's both easy and fun to buy into the spy drama and massive gunfights in equal measure."
+
+    </p> 
+
+    <p>
+        "As with any Call of Duty game, the standard suite of 6v6 multiplayer modes is here.
+
+        There's not much to say about the modes themselves that hasn't been said before; they're the bread and butter of the multiplayer CoD experience, and most of them work well."
+
+    </p> 
+
+    <p>
+        "I've always liked Zombies, but this is the first time in a while that I've felt like I actually learned and improved after each run. A big part of that is the map design--Die Maschine is just the right size, with enough room that everyone can kite their own crowd of zombies but small enough that it doesn't take ages to learn the map basics.
+
+        It only took a handful of runs to figure out which doors to unlock and when, how to get the power on, and how to unlock the Pack-a-Punch machine; once we found a rhythm for the opening rounds, we could just focus on getting better and surviving longer."
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/Vo_olnx7uGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://www.gamespot.com/reviews/call-of-duty-black-ops-cold-war-review/1900-6417609/" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <a class="button" href="https://www.callofduty.com/blackopscoldwar/buy" target="_blank"> Purchase Here! </a>
+
+
+</body>
+
+</html>

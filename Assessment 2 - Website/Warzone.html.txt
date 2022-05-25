@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Call Of Duty: Warzone </title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="Overview.html"> Overview Of Call Of Duty </a></li>
+            <li><a href="ModernWarfare.html"> Call Of Duty: Modern Warfare </a></li>
+            <li><a href="ColdWar.html"> Call Of Duty: Black ops Cold War </a></li>
+            <li><a href="Vanguard.html"> Call Of Duty: Vanguard </a></li>
+            <li><a href="Warzone.html"> Call Of Duty: Warzone </a></li>
+        </ul>
+    </nav>
+
+    <h1> Call Of Duty: Warzone | Overview </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/N7WcBtU.jpg" /> </p>
+
+    <p>
+
+        Call of Duty: Warzone is a free-to-play battle royale video game released on March 10, 2020, for PlayStation 4, Xbox One, and Microsoft Windows. A version for the PlayStation 5 and Xbox Series X/S has been announced to be released in 2022, with a mobile version also in development as of 2022.
+
+        The game is a part of 2019's Call of Duty: Modern Warfare and is connected to 2020's Call of Duty: Black Ops: Cold War, 2021's Call of Duty: Vanguard and the upcoming Modern Warfare II (alongside an upgraded version of Warzone) (but does not require purchase of either titles) and was introduced during Season 2 of Modern Warfare content.
+
+        Warzone was developed by <a href="https://www.infinityward.com/" target="_blank"> Infinity Ward</a> and <a href="https://www.ravensoftware.com/" target="_blank"> Raven Software</a> (the latter later credited as the sole developer following the integration of Cold War's content) and published by <a href="https://www.activision.com/" target="_blank"> Activision</a>.
+
+        Warzone allows online multiplayer combat among 150 players, although some limited-time game modes support 200 players. Other modes include Plunder, Rebirth: Resurgence, Buy Back, Payload and Clash. The game features both cross-platform play and cross-platform progression between three games.
+
+        The game features two main modes: Battle Royale and Plunder. Warzone introduces a new in-game currency system that can be used at "Buy Stations" in and around the map. "Loadout" drops are an example of where Cash can be traded for limited access to players' custom classes (which were shared with Modern Warfare's standard modes prior to Season 6, v1.29, but now are unique to Warzone). Players may also use Cash to purchase items such as "killstreaks" and gas masks.
+
+        Cash can be found by looting buildings and killing players that have cash on them. At launch, Warzone only offered Trios, a squad capacity of three players. However, in free post-launch content updates, Solos, Duos and Quads have all been added to the game.
+
+        The game received generally positive reviews from critics, with the maps receiving specific praise. In April 2021, Activision announced that Warzone had surpassed 100 million active players.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/0E44DClsX5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Warzone | The Story Begins Now </h1>
+
+    <p>
+
+        In 2020, following an attack orchestrated by terrorists Khaled Al-Asad and Victor Zakhaev, the city of Verdansk is engulfed in a cloud of toxic gas.
+
+        The Armistice, a joint faction consisting of Russian (Allegiance) and NATO (Coalition) operators, quickly disbands amidst the chaos of the attack, while the operators form smaller sub-factions as they fight one another for survival.
+
+        The remaining Armistice leaders attempt to track down Zakhaev and learn of his plans. Following months of searching, Task Force 141, led by Captain John Price, eventually locates Zakhaev and stops him from launching a nuclear missile.
+
+        A few months later, a cargo ship named Vodianoy appears and crashes on the shores of Verdansk, after having disappeared for 37 years. The ship breaks in half, unleashing zombies into the wild.
+
+        Over the weeks, the zombies tread throughout the city, leaving behind radiated contamination traces. Eventually, all Armistice operators are forced to evacuate Verdansk, while nuclear missiles are ordered to strike and wipe out the undead threat, annihilating the city in the process.
+
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/9NEYPlNrBcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Warzone | The Flashback </h1>
+
+    <p>
+
+        In 1984, Perseus operative Vikhor "Stitch" Kuzmin rebuilds and recommissions Rebirth Island's facilities for production of the lethal Nova-6 gas. At some point, the cargo ship Vodianoy departed from the island, only to mysteriously disappear in the middle of the sea. Some times later, Stitch lures his nemesis, CIA agent Russell Adler, into a trap, and captures the latter.
+
+        The CIA conducts a search and rescue operation, and eventually tracks him from Laos to Verdansk, where Stitch held him captive.
+
+        A CIA squad lead by Frank Woods rescues Adler in Verdansk, while Stitch continues to carry out his plan: to reactivate Project Nova, a numbers broadcast program once helmed by Nikita Dragovich, and seize control of various brainwashed sleeper agents embedded in Verdansk.
+
+        The CIA eventually learns that Adler has been off-grid in Verdansk, potentially compromised due to the numbers program. Adler is apprehended and eventually cured of his brainwashing; at the same time, Stitch and other Perseus agents learn of several explosive charges placed around Verdansk by Adler, and fail to stop their detonation.
+
+        Adler deploys to Verdansk, alongside Woods, Alex Mason and Jason Hudson, to thwart Stitch's plan. They eventually find Stitch in the woods, where he reveals himself as the bearer of the Perseus mantle, while the previous one had passed away from cancer in 1983, much to Adler's dismay. Stitch surrenders his life to Adler.
+
+        Several days later, Adler, Mason, Hudson and Woods investigate a buried German WWII bunker in the ruins of Verdansk, where they meet Captain Carver Butcher, a retired Special Operations Executive agent who created the first spec-ops task force, Vanguard. Butcher then tells Adler and the others of a mission to hunt down remnants of the Nazi empire, which took place in the Pacific.
+
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/kKNInnXUp6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Warzone | The War Of The Pacific </h1>
+
+    <p>
+
+        In December 1944, Butcher authorizes Operation Vulcan, a top-secret SOE mission to infiltrate Caldera Island and track down fleeing Axis soldiers and scientists. As he arrives near the island accompanied by Task Force Trident, their plane is shot, forcing Trident to jump out while Butcher crashes near the beach. As the three Trident operators attempt to navigate the island, Butcher emerges from the crash and finds an entrance to a Nazi bunker near the beach. Intel from the bunker reveals that the Nazis were working on a chemical weapon, named "Nebula V". Some times later, Butcher travels to the Swiss Alps with Task Force Yeti, where the Nazis are keeping the Nebula V gas in a fortress. The task force storms the fortress, but is unable to stop the Nazi commander from unleashing the gas. Butcher and the task force barely manage to escape as the gas engulfs the fortress.
+
+        The Nazis begin to deploy Nebula V across the world, hitting major cities such as Paris and London, as well as Caldera.
+
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/1vuBd7RKf_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/WEL_fnEcY4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Warzone | Reviews </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/CGDaxuZ.jpg" height="673" width="1200" /> </p>
+
+    <p>
+
+        "Warzone’s Verdansk battle royale map mashes up several familiar locations from Call of Duty’s past, albeit on a much larger scale. Verdansk is massive, dwarfing its predecessor and then some.
+
+        And for a space this vast with a 150-player capacity, Warzone’s performance on PC impressed me as I rarely experienced frame drops or connectivity problems, which feels like a triumph in this context"
+
+    </p> 
+
+    <p>
+
+        "In spite of the serious concessions to depth made in the name of instant gratification, Call of Duty: Warzone’s beta remains thoroughly enjoyable."
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/HQKKdkqwBpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://me.ign.com/en/call-of-duty-warzone/171502/review/call-of-duty-warzone-review" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <p align="center"> <img src="https://i.imgur.com/I3JaQIM.jpg" height="673" width="1200" /> </p>
+
+    <p>
+
+        "Warzone is a great sophomore attempt at a battle royale from Call of Duty, which finally manages to carve out its own identity with interesting spins on the existing formula.
+
+        Its subversion of death and the nail-biting Gulag duels give you more ways to stay in a match, while also forcing you to be aware of your surroundings even after wiping a rival squad.
+
+        Its looting is streamlined enough to make early moments feel fast."
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/hcHln3zwgaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://www.gamespot.com/reviews/call-of-duty-warzone-review/1900-6417433/" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <a class="button" href="https://www.callofduty.com/ar/en/warzone/download" target="_blank"> Download Here! </a>
+
+</body>
+
+</html>

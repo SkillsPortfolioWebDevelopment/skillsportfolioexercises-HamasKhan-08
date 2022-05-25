@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Call Of Duty: Vanguard </title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="Overview.html"> Overview Of Call Of Duty </a></li>
+            <li><a href="ModernWarfare.html"> Call Of Duty: Modern Warfare </a></li>
+            <li><a href="ColdWar.html"> Call Of Duty: Black ops Cold War </a></li>
+            <li><a href="Vanguard.html"> Call Of Duty: Vanguard </a></li>
+            <li><a href="Warzone.html"> Call Of Duty: Warzone </a></li>
+        </ul>
+    </nav>
+
+    <h1> Call Of Duty: Vanguard | Overview  </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/YBwL7UI.jpg" /> </p>
+
+    <p>
+
+        Call of Duty: Vanguard is a 2021 first-person shooter game developed by <a href="https://www.sledgehammergames.com/" target="_blank"> Sledgehammer Games</a> and published by <a href="https://www.activision.com/" target="_blank"> Activision</a>.
+
+        It was released on November 5 for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S.
+
+        It serves as the 18th installment in the overall Call of Duty series. Vanguard establishes a storyline featuring the birth of the special forces to face an emerging threat at the end of the war during various theatres of World War II.
+
+        Vanguard's campaign features similar gameplay mechanics previously introduced in Modern Warfare, such as the player being able to mount wielded weapons to flat surfaces, interact with doors and execute takedowns.
+
+        New gameplay features allow the player the ability to use a more advanced tactical approach in combat such as blind firing from behind cover, breaking through destructible environmental elements or creating new paths to complete objectives by climbing walls.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/OQ1CwPhE8KQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Vanguard | Plot </h1>
+
+    <p>
+
+        In June 1944, British paratrooper Sergeant Arthur Kingsley takes part in Operation Tonga, where he and the Parachute Regiment help destroy the Merville Gun Battery and several other bridges to assist the Allied forces in invading Normandy.
+
+        Kingsley befriends fellow paratrooper Sergeant Richard Webb, who would later become Kingsley's right-hand man.
+
+        Kingsley, Webb, Petrova, Jackson and Riggs, alongside a sixth soldier named Milos Novak, would eventually be recruited by Captain Carver Butcher to form the first special operations task force, callsign Vanguard. Kingsley is appointed as the leader of the task force.
+
+        In April 1945, Task Force Vanguard hijacks a train to Hamburg, Germany, in search of intelligence regarding Project Phoenix, a secret Nazi program run by Freisinger. While infiltrating a Kriegsmarine submarine, the squad is captured by Freisinger's men, minus Jackson who evaded them, and Novak who is bludgeoned to death by Freisinger.
+
+        Vanguard is delivered to the Gestapo headquarters in Berlin, where Freisinger appoints Schutzstaffel officer Jannick Richter to interrogate them. Jackson is also captured after attempting to steal a plane; Richter demoralizes the squad by executing Webb.
+
+        Being unaware of Project Phoenix's purpose and Freisinger's involvement, Richter attempts to learn more by interrogating Petrova and Riggs about Steiner and Rommel's connection to Freisinger. He deduces that the project was a coup attempt, in order to appoint Freisinger as the new Führer of the Fourth Reich.
+
+        As Berlin falls under siege by the Red Army following Adolf Hitler's suicide, Riggs breaks out of interrogation and frees the squad, while Kingsley kills Richter to avenge Webb. Vanguard pursues Freisinger to the Berlin Tempelhof Airport, where they finally apprehend him and burn him alive. The four then board Freisinger's Luftwaffe plane, discovering numerous German documents and assets, revealing global Nazi covert operations.
+
+        Kingsley decides to follow up on Project Aggregat, a secret V2 rocket facility, and orders Jackson to fly there in pursuit.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/H8VqC_y4u8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Vanguard | Multiplayer </h1>
+
+    <p>
+
+        Vanguard's multiplayer mode introduces a new game mode to the series, titled "Champion Hill", a successor to the mode "Gunfight", a 2v2 arena mode previously featured in Call of Duty: Modern Warfare and Call of Duty: Black Ops Cold War. Champion Hill tasks players with surviving as long as possible in a squad-based deathmatch, round-robin tournament.
+
+        Season 2 of Vanguard introduces "Arms Race", a large-scale game mode where two teams of 12 players attempt to capture five bases, or destroy them; players can also earn cash from kills and complete objectives to buy custom loadouts and killstreaks.
+
+        A new feature introduced to the Call of Duty series through Vanguard's multiplayer is "Combat Pacing". This allows the player to have more control over the selection of multiplayer game modes through three pre-defined pacing filters favoring different playstyles.
+
+        As an addition to the returning Gunsmith system, Vanguard's multiplayer features a "Caliber system", which brings greater destructibility and reactive environments to maps through different ammunition types.
+
+    </p>
+
+    <p>
+
+        In December 1944, Captain Butcher begins to oversee Operation Vulcan, a top-secret Special Operations Executive mission to hunt down Axis soldiers and scientists who fled to the South Pacific.
+
+        Butcher deploys with Task Force Trident to Caldera Island in pursuit of Nazi activities, but their plane is shot down by anti-air, leaving the three Trident members stranded from Butcher.
+
+        As the task force attempts to navigate the island, Butcher stumbles upon the entrance to a Nazi bunker at the beach where he crash-landed. The intel recovered from Caldera reveals that the Nazis were working on a new chemical weapon, dubbed "Nebula V".
+
+        Butcher travels to the Swiss Alps with Task Force Yeti, intending to recover Nebula V from a nearby Nazi fortress.
+
+        The Yeti members storm the fortress, but are unable to stop the Nazi commander from releasing the Nebula V gas. They barely manage to escape as the gas engulfs the fortress.
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/EfFU-vxbzd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Vanguard | Zombies </h1>
+
+    <p>
+
+        The cooperative Zombies mode returns in Vanguard, developed by Treyarch in collaboration with Sledgehammer Games. The mode is considered an expansion of the Dark Aether story, and acts as a prologue to Black Ops Cold War's story.
+
+        At launch, the game features a new map titled "Der Anfang", which combines aspects of round-based survival gameplay with the objective-based gameplay of Outbreak and Onslaught, both new gamemodes introduced in Cold War.
+
+        Gameplay elements from Cold War return in Vanguard, such as Essence and Salvage currencies, and Dark Aether-powered field upgrades, in addition to classic Zombies gameplay items like perks and the Pack-a-Punch machine.
+
+        A new gameplay feature, the Altar of Covenants, allows players to purchase randomized buffs every round, allowing a variety in combat builds. 
+
+    </p>
+
+    <p>
+
+        In March 1944, following the activation of the cyclotron in Projekt Endstation by the Nazis in Morasko, Poland, various ancient artifacts recovered by the SS unit Die Wahrheit are activated, allowing several entities from the Dark Aether dimension to reach out to the real world.
+
+        One such entity, Kortifex the Deathless, forms a symbiotic bond with Oberführer Wolfram Von List, Die Wahrheit's commander, and bestows him the power to resurrect the dead. A team of Special Forces operators responds to an emergency broadcast from Professor Gabriel Krafft, a demonologist forced to work for Von List, and is drafted into a new battle against Von List and Kortifex's undead army.
+
+        Krafft assists the operators in battling the undead, by also supplying them with Dark Aether artifacts which allow them to form bonds with four other Dark Aether entities: Saraxis the Shadow, Inviktor the Destroyer, Norticus the Conqueror and Bellekar the Warlock, all of whom wish to thwart Kortifex's plan.
+
+
+    </p>
+
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/8swCrPIt4nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <h1> Call Of Duty: Vanguard | Reviews </h1>
+
+    <p align="center"> <img src="https://i.imgur.com/CGDaxuZ.jpg" height="673" width="1200"/>  </p>
+
+    <p>
+
+        "Call of Duty: Vanguard’s campaign starts off on the right track – literally. An explosive train sequence through a burning Hamburg, Germany thrills as you jump between carriages, fending off dozens of angry Nazis on your way to a submarine base. It’s a cinematic opening to a game that wears its film influences proudly; whether that be the tense behind-enemy-lines aspects of D-Day in The Longest Day or the vivid depictions of the Pacific in Terence Malick’s The Thin Red Line.
+
+        No shadow hangs heavier over this latest Call of Duty World War II story".
+
+    </p> <br />
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/hDMXN82aQnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p>
+
+        "I’ve spent the weekend after launch playing Call of Duty: Vanguard multiplayer, and I'm glad to say I'm having a lot of fun." <br />
+
+        "Anyway, the crown jewel of Vanguard’s multiplayer is its maps. In fact, this might just be the best collection of launch maps of any Call of Duty game in recent memory.
+
+        You know that feeling when you’re loading into a map and you’re like, "Oh no, not this map, dear Lord please, anything but this map?" I haven’t had that even once."
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/X54dHCpSU-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p>
+
+        "I've always loved how Zombies lets Call of Duty stretch its legs into a brutal, Doom-y aesthetic, and Treyarch proudly heaps on the gore as waves of hungry enemies keep coming and you to survive as long as possible."
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/o-ZRZZ3pnBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+
+    <p> <a class="button" href="https://www.ign.com/games/call-of-duty-vanguard" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <p align="center"> <img src="https://i.imgur.com/I3JaQIM.jpg" height="673" width="1200" /> </p>
+
+    <p>
+
+        "The standout of the campaign is Polina, a Russian sniper and hero of the Battle of Stalingrad.
+
+        Polina is quicker and more agile than the other characters, allowing her to quickly sneak under tables and through tight spaces, or climb walls to get to sniper perches. When she's not sniping, her missions are largely stealthy affairs as she sneaks through bombed-out buildings to slip behind enemy soldiers and knife them in the neck, before disappearing among the debris.
+
+        They're exciting and fraught moments"
+
+    </p> 
+
+    <p>
+
+        "The additions to multiplayer, though, are positive ones, even if they're mostly iterative changes to the familiar. Maps are littered with destructible walls to accompany destructible doors, giving you chances to bust out new sightlines or shoot people through flimsy cover.
+
+        The destruction adds pathways and tactical options, while also increasing the overall chaos as bullets can fly from more places, forcing you to pay attention to how things are developing.
+
+        That makes multiplayer matches feel like they change over time, which brings a fun dynamism to battles that requires you to think quickly and adjust your approach."
+
+    </p> 
+
+    <p>
+
+        " Zombies has been a fascinating addition to Call of Duty in the past as a sort of horde-mode puzzle box that players have to survive as well as solve.
+
+        The problem has often been that the mode is opaque and tough to understand.
+
+        Black Ops Cold War developer Treyarch, which created Zombies in the first place, returned to work on this mode and streamlined it significantly, in a lot of smart ways."
+
+    </p>
+
+    <p align="center"> <iframe width="1200" height="673" src="https://www.youtube.com/embed/_hrSnVfch1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+    <p> <a class="button" href="https://www.gamespot.com/reviews/call-of-duty-vanguard-review-personnel-problems/1900-6417780/" target="_blank"> Full Review Here! </a> </p> <br />
+
+    <a class="button" href="https://www.callofduty.com/ar/en/vanguard/buy" target="_blank"> Purchase Here! </a>
+
+
+
+</body>
+
+</html>
